@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1741937880311,
-  "index": "/tabata-timer-test/index.html",
+  "timestamp": 1742290264645,
+  "index": "/tabata-timer-test/index.csr.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,18 +11,19 @@
         "ignoreVary": true
       },
       "urls": [
-        "/tabata-timer-test/chunk-4TDNJBFX.js",
-        "/tabata-timer-test/chunk-L5EWLQF5.js",
-        "/tabata-timer-test/chunk-VDEBWSLP.js",
-        "/tabata-timer-test/chunk-X4PWEW6Q.js",
-        "/tabata-timer-test/chunk-XGMY226G.js",
+        "/tabata-timer-test/chunk-3QXRJSGN.js",
+        "/tabata-timer-test/chunk-CECHRCP4.js",
+        "/tabata-timer-test/chunk-FCGBQB2T.js",
+        "/tabata-timer-test/chunk-IS7YXA7X.js",
+        "/tabata-timer-test/chunk-SWTKKHLW.js",
         "/tabata-timer-test/favicon.ico",
+        "/tabata-timer-test/index.csr.html",
         "/tabata-timer-test/index.html",
-        "/tabata-timer-test/main-LZXLYAAP.js",
+        "/tabata-timer-test/main-YBC2MNIZ.js",
         "/tabata-timer-test/manifest.webmanifest",
-        "/tabata-timer-test/polyfills-KM26LX2Q.js",
+        "/tabata-timer-test/polyfills-Z7V3MEBI.js",
         "/tabata-timer-test/styles-4W6P2QSN.css",
-        "/tabata-timer-test/worker-AGQNVIP4.js"
+        "/tabata-timer-test/worker-3HWLBWPF.js"
       ],
       "patterns": []
     },
@@ -48,11 +49,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/tabata-timer-test/chunk-4TDNJBFX.js": "29997cf8b065b16633cfcda03033c2be02899b75",
-    "/tabata-timer-test/chunk-L5EWLQF5.js": "4e29bb0149c7e2d10638bb773f428799db404763",
-    "/tabata-timer-test/chunk-VDEBWSLP.js": "9132aafa21f42ef934c9095d1a5c46c2e2e09106",
-    "/tabata-timer-test/chunk-X4PWEW6Q.js": "7472c16a6155a06bc05656d1305af92300498713",
-    "/tabata-timer-test/chunk-XGMY226G.js": "1b8e0dee8de7428f3f76421eab6a04b56d9a9f26",
+    "/tabata-timer-test/chunk-3QXRJSGN.js": "8db7e853bff6e2dfb8e75dc2df3e4ad6115f101b",
+    "/tabata-timer-test/chunk-CECHRCP4.js": "a95d63de7dbfe1a6683acca9fece57236bc885b0",
+    "/tabata-timer-test/chunk-FCGBQB2T.js": "b4cd22af464412f216516313c34edf6769834449",
+    "/tabata-timer-test/chunk-IS7YXA7X.js": "1284d6cd6dbcc998a59f71306f9ea051338427d6",
+    "/tabata-timer-test/chunk-SWTKKHLW.js": "6ab3cad0cae8353c33134d0e0ae5991d09f1a21e",
     "/tabata-timer-test/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/tabata-timer-test/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/tabata-timer-test/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
@@ -62,12 +63,13 @@
     "/tabata-timer-test/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/tabata-timer-test/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/tabata-timer-test/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/tabata-timer-test/index.html": "fb568bbb5b3cb219f9351020f0495405d48a1bdf",
-    "/tabata-timer-test/main-LZXLYAAP.js": "9a3a3399456eb94e554f5d9bab7bc23710d1829e",
+    "/tabata-timer-test/index.csr.html": "ef76e862a98f8b5333d7783e3880142358dcb76c",
+    "/tabata-timer-test/index.html": "f6e496fa5d934a8c9aadd34cf5ed8a38ff091b70",
+    "/tabata-timer-test/main-YBC2MNIZ.js": "420b7ac0bbd99e0325773422eeaf094c7f7ea115",
     "/tabata-timer-test/manifest.webmanifest": "5a3934601cd1bfbab034d5fdcecd1df4dfd3414b",
-    "/tabata-timer-test/polyfills-KM26LX2Q.js": "e18948c982d0657dd410a8291b754eaed071c251",
+    "/tabata-timer-test/polyfills-Z7V3MEBI.js": "2002df0e5995dffb4e03c3b27055e6f3ca1e82db",
     "/tabata-timer-test/styles-4W6P2QSN.css": "b9d92ae33ba643a9400ca2ed729515cf8921d7db",
-    "/tabata-timer-test/worker-AGQNVIP4.js": "9015349619c73bdf2e1794c371fc512133d4cb89"
+    "/tabata-timer-test/worker-3HWLBWPF.js": "f6c53fc77aa0afe4dbbc2c955b150707faffc534"
   },
   "navigationUrls": [
     {
