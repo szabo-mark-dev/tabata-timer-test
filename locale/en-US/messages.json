@@ -1,7 +1,8 @@
 {
   "locale": "en-US",
   "translations": {
-    "applicationName": "Tabata Timer",
+    "exampleWorkoutName": "My Workout Routine",
+    "applicationName": "Tabata Max",
     "backToHomeButtonLabel": "Back",
     "resumeButtonLabel": "Resume",
     "pauseButtonLabel": "Pause",

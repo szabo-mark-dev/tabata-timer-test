@@ -1,7 +1,8 @@
 {
   "locale": "hu-HU",
   "translations": {
-    "applicationName": "Tabata Időzítő",
+    "exampleWorkoutName": "Az én edzésem",
+    "applicationName": "Tabata Max",
     "backToHomeButtonLabel": "Vissza",
     "resumeButtonLabel": "Lejátszás",
     "pauseButtonLabel": "Szünet",
