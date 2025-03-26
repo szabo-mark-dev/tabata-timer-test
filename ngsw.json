@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1742978958484,
+  "timestamp": 1742979869550,
   "index": "/tabata-timer-test/index.csr.html",
   "assetGroups": [
     {
@@ -66,7 +66,7 @@
     "/tabata-timer-test/index.csr.html": "d26aef4add04a045793867c11e9f50ae3dd1883f",
     "/tabata-timer-test/index.html": "615c586f3b0a1bab0e882294077c97be43409db7",
     "/tabata-timer-test/main-YMSF7CHI.js": "439ef9a6b970b6f7a9b29c5406ed7e4c5d29a6c1",
-    "/tabata-timer-test/manifest.webmanifest": "3e2e9e6761bece87f4227ff7f4af5d8d89be81e3",
+    "/tabata-timer-test/manifest.webmanifest": "a23e4051e6e166cc0f114c69687bdf2a49e5cf06",
     "/tabata-timer-test/polyfills-Z7V3MEBI.js": "2002df0e5995dffb4e03c3b27055e6f3ca1e82db",
     "/tabata-timer-test/styles-4W6P2QSN.css": "b9d92ae33ba643a9400ca2ed729515cf8921d7db",
     "/tabata-timer-test/worker-3HWLBWPF.js": "f6c53fc77aa0afe4dbbc2c955b150707faffc534"
