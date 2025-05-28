@@ -53,7 +53,7 @@
     "exerciseLabel": "Gyakorlat",
     "restLabel": "Pihenés",
     "timeUnitLabel": "perc",
-    "noWorkoutsLabel": "Még nem hoztál létre egyetlen edzést sem.",
+  
     "createWorkoutButtonLabel": "Létrehoz",
     "editWorkoutButtonLabel": "Frissít",
     "workoutNameFormFieldLabel": "Név",
