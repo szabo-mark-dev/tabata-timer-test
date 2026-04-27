@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777281374265,
+  "timestamp": 1777282130832,
   "index": "/tabata-timer-test/index.csr.html",
   "assetGroups": [
     {
@@ -22,7 +22,7 @@
         "/tabata-timer-test/main-BJFWZOXA.js",
         "/tabata-timer-test/manifest.webmanifest",
         "/tabata-timer-test/polyfills-PZSJNBYU.js",
-        "/tabata-timer-test/styles-LGBLBTSW.css",
+        "/tabata-timer-test/styles-5EYBGWBG.css",
         "/tabata-timer-test/worker-MH7RI72V.js"
       ],
       "patterns": []
@@ -55,7 +55,12 @@
         "/tabata-timer-test/images/workout-list.png",
         "/tabata-timer-test/images/workout-prepare.png",
         "/tabata-timer-test/images/workout-rest.png",
-        "/tabata-timer-test/images/workout-start.png"
+        "/tabata-timer-test/images/workout-start.png",
+        "/tabata-timer-test/media/Exo-YBYE4MQ3.ttf",
+        "/tabata-timer-test/media/MaterialSymbolsOutlined-CM3QEQ2I.woff2",
+        "/tabata-timer-test/media/MaterialSymbolsOutlined-O6OURFMR.ttf",
+        "/tabata-timer-test/media/Orbitron-GS6LTCK2.ttf",
+        "/tabata-timer-test/media/Roboto-UUEVLWBS.ttf"
       ],
       "patterns": []
     }
@@ -89,12 +94,17 @@
     "/tabata-timer-test/images/workout-prepare.png": "df09e38894fc01794e7640f4877638ab5482bbc1",
     "/tabata-timer-test/images/workout-rest.png": "535343c4c357dfc27779ceea3fc609b3f5a06b70",
     "/tabata-timer-test/images/workout-start.png": "b75b9c40d8913782c849c055c43b1c4486f794b4",
-    "/tabata-timer-test/index.csr.html": "271b335079eb0ab3a8bf83f7fdc4b59ddb76e819",
-    "/tabata-timer-test/index.html": "8e6ba9e34577963fb6512bce3eb9042523424dcd",
+    "/tabata-timer-test/index.csr.html": "9988aba8173ff48fd432d26cb408402777a53f0e",
+    "/tabata-timer-test/index.html": "cb268b3c2af89a4aff3b1d867d03abd8b7053640",
     "/tabata-timer-test/main-BJFWZOXA.js": "5a03bc38d8ba4e9d662bcbd369991b3b5d6f992d",
     "/tabata-timer-test/manifest.webmanifest": "7c09bb03c713d8e8652cf04b7809cd24cdc8707c",
+    "/tabata-timer-test/media/Exo-YBYE4MQ3.ttf": "66f47fd29e64e9198f5da0410096f4064ddca117",
+    "/tabata-timer-test/media/MaterialSymbolsOutlined-CM3QEQ2I.woff2": "f7b8de43341a7a75b0029b29906229ac5f1241a9",
+    "/tabata-timer-test/media/MaterialSymbolsOutlined-O6OURFMR.ttf": "1d0c3d0713ec2e256fa0d6964a4c9973c1094451",
+    "/tabata-timer-test/media/Orbitron-GS6LTCK2.ttf": "1f13abb00f097178cda113ec970e8ad01e62c584",
+    "/tabata-timer-test/media/Roboto-UUEVLWBS.ttf": "126465ccaecd3fc5588ad03d1b131ee46e617813",
     "/tabata-timer-test/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
-    "/tabata-timer-test/styles-LGBLBTSW.css": "8a37988a6d9b52cb738265b9fc3c9c479adb21d4",
+    "/tabata-timer-test/styles-5EYBGWBG.css": "88069a3f8607a672f06f6beecac8b30a844e909f",
     "/tabata-timer-test/worker-MH7RI72V.js": "a8a580a09c208d466d15e62137165bc92c740ea9"
   },
   "navigationUrls": [
