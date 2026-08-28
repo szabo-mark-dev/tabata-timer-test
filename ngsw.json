@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787907129603,
+  "timestamp": 1787908844218,
   "index": "/tabata-timer-test/index.csr.html",
   "assetGroups": [
     {
@@ -16,11 +16,10 @@
         "/tabata-timer-test/favicon.ico",
         "/tabata-timer-test/index.csr.html",
         "/tabata-timer-test/index.html",
-        "/tabata-timer-test/main-POCMMV7T.js",
+        "/tabata-timer-test/main-MUV34LQ7.js",
         "/tabata-timer-test/manifest.webmanifest",
         "/tabata-timer-test/polyfills-PZSJNBYU.js",
-        "/tabata-timer-test/styles-5EYBGWBG.css",
-        "/tabata-timer-test/worker-DQAWI73E.js"
+        "/tabata-timer-test/styles-5EYBGWBG.css"
       ],
       "patterns": []
     },
@@ -88,9 +87,9 @@
     "/tabata-timer-test/images/workout-prepare.png": "df09e38894fc01794e7640f4877638ab5482bbc1",
     "/tabata-timer-test/images/workout-rest.png": "535343c4c357dfc27779ceea3fc609b3f5a06b70",
     "/tabata-timer-test/images/workout-start.png": "b75b9c40d8913782c849c055c43b1c4486f794b4",
-    "/tabata-timer-test/index.csr.html": "b69223b6d3d5521e7cf181370722529bef6cb1bd",
-    "/tabata-timer-test/index.html": "fa1a410f10b0d00bdfed7406238fc9fc91663475",
-    "/tabata-timer-test/main-POCMMV7T.js": "4eae83b41420e1fa6510a3ca5a1ae2d695f8347d",
+    "/tabata-timer-test/index.csr.html": "92cae04aa8fe2ed0a46b4009315513264f2872c0",
+    "/tabata-timer-test/index.html": "541fc8e1fdf3a5448239398a65bc7c5ff0af6621",
+    "/tabata-timer-test/main-MUV34LQ7.js": "52a80c20abc636e277a744c8c5b866d4e547c4fc",
     "/tabata-timer-test/manifest.webmanifest": "7c09bb03c713d8e8652cf04b7809cd24cdc8707c",
     "/tabata-timer-test/media/Exo-YBYE4MQ3.ttf": "66f47fd29e64e9198f5da0410096f4064ddca117",
     "/tabata-timer-test/media/MaterialSymbolsOutlined-CM3QEQ2I.woff2": "f7b8de43341a7a75b0029b29906229ac5f1241a9",
@@ -98,8 +97,7 @@
     "/tabata-timer-test/media/Orbitron-GS6LTCK2.ttf": "1f13abb00f097178cda113ec970e8ad01e62c584",
     "/tabata-timer-test/media/Roboto-UUEVLWBS.ttf": "126465ccaecd3fc5588ad03d1b131ee46e617813",
     "/tabata-timer-test/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
-    "/tabata-timer-test/styles-5EYBGWBG.css": "88069a3f8607a672f06f6beecac8b30a844e909f",
-    "/tabata-timer-test/worker-DQAWI73E.js": "d0f90fda2082a3b7469f0b47e29a5f135c3f82e1"
+    "/tabata-timer-test/styles-5EYBGWBG.css": "88069a3f8607a672f06f6beecac8b30a844e909f"
   },
   "navigationUrls": [
     {
