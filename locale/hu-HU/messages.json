@@ -81,6 +81,9 @@
     "workoutPreparationTimeFormFieldLabel": "Felkészülési Idő",
     "workoutTimeFormFieldLabel": "Edzés Idő",
     "workoutRestTimeFormFieldLabel": "Pihenő Idő",
-    "workoutRestBetweenSetsTimeFormFieldLabel": "Pihenő a Körök között"
+    "workoutRestBetweenSetsTimeFormFieldLabel": "Pihenő a Körök között",
+    "timerUnavailableLabel": "Az visszaszámláló nem indítható el!",
+    "updateAvailableLabel": "Frissítés érhető el",
+    "updateButtonLabel": "Frissítés"
   }
 }

@@ -81,6 +81,9 @@
     "workoutPreparationTimeFormFieldLabel": "Preparation Time",
     "workoutTimeFormFieldLabel": "Workout Time",
     "workoutRestTimeFormFieldLabel": "Rest Time",
-    "workoutRestBetweenSetsTimeFormFieldLabel": "Rest Time Between Sets"
+    "workoutRestBetweenSetsTimeFormFieldLabel": "Rest Time Between Sets",
+    "timerUnavailableLabel": "Timer could not be started",
+    "updateAvailableLabel": "An update is available",
+    "updateButtonLabel": "Update"
   }
 }
